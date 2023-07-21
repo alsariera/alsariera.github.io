@@ -1,0 +1,66 @@
+﻿/* arabic */
+/*@font-face {
+    font-family: "Neo Sans Arabic Regular";
+    src: url("font-face/f6e895d8c1d12739e54a0ca9df6903d5.eot");*/ /* IE9*/
+    /*src: url("font-face/f6e895d8c1d12739e54a0ca9df6903d5.eot?#iefix") format("embedded-opentype"),*/ /* IE6-IE8 */
+    /*url("font-face/f6e895d8c1d12739e54a0ca9df6903d5.woff2") format("woff2"),*/ /* chrome、firefox */
+    /*url("font-face/f6e895d8c1d12739e54a0ca9df6903d5.woff") format("woff"),*/ /* chrome、firefox */
+    /*url("font-face/f6e895d8c1d12739e54a0ca9df6903d5.ttf") format("truetype"),*/ /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    /*url("font-face/f6e895d8c1d12739e54a0ca9df6903d5.svg#Neo Sans Arabic Regular") format("svg");*/ /* iOS 4.1- */
+/*}*/
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Neo Sans Arabic'), url('woff/Neo Sans Arabic Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Neo Sans Arabic'), url('woff/NeoSansArabic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Neo Sans Arabic'), url('woff/NeoSansArabicLight.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Neo Sans Arabic'), url('woff/NeoSansArabicMedium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Neo Sans Arabic'), url('woff/NeoSansArabicBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Neo Sans Arabic'), url('woff/NeoSansArabicBlack.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans Arabic';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Neo Sans Arabic'), url('woff/NeoSansArabicUltra.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Neo Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Neo Sans'), url('woff/Neo_Sans_Medium.woff') format('woff');
+}
